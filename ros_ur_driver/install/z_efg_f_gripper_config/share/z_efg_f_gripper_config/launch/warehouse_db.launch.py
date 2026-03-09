@@ -1,7 +1,0 @@
-from moveit_configs_utils import MoveItConfigsBuilder
-from moveit_configs_utils.launches import generate_warehouse_db_launch
-
-
-def generate_launch_description():
-    moveit_config = MoveItConfigsBuilder("z_efg_f_gripper", package_name="z_efg_f_gripper_config").to_moveit_configs()
-    return generate_warehouse_db_launch(moveit_config)

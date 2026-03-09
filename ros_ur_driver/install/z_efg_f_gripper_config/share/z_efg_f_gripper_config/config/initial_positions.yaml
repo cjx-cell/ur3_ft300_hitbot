@@ -1,5 +1,0 @@
-# Default initial positions for z_efg_f_gripper's ros2_control fake system
-
-initial_positions:
-  finger_left_joint: 0
-  finger_right_joint: 0
