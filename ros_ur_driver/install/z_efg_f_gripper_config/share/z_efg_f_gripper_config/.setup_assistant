@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: z_efg_f_gripper
+    relative_path: urdf/gripper.urdf
+  srdf:
+    relative_path: config/z_efg_f_gripper.srdf
+  package_settings:
+    author_name: ubuntu
+    author_email: 1252863042@qq.com
+    generated_timestamp: 1768718518
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

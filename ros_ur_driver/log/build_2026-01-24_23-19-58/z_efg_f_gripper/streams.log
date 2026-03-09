@@ -1,0 +1,51 @@
+[0.010s] Invoking command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ubuntu/workspace/ros_ur_driver/src/z_efg_f_gripper -DCMAKE_INSTALL_PREFIX=/home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper
+[0.041s] -- The C compiler identification is GNU 11.4.0
+[0.069s] -- The CXX compiler identification is GNU 11.4.0
+[0.073s] -- Detecting C compiler ABI info
+[0.107s] -- Detecting C compiler ABI info - done
+[0.110s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.110s] -- Detecting C compile features
+[0.110s] -- Detecting C compile features - done
+[0.111s] -- Detecting CXX compiler ABI info
+[0.151s] -- Detecting CXX compiler ABI info - done
+[0.154s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.154s] -- Detecting CXX compile features
+[0.154s] -- Detecting CXX compile features - done
+[0.155s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.325s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.368s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.390s] -- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+[0.391s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.427s] -- Added test 'lint_cmake' to check CMake code style
+[0.427s] -- Added test 'xmllint' to check XML markup files
+[0.428s] -- Configuring done
+[0.430s] -- Generating done
+[0.430s] -- Build files have been written to: /home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper
+[0.433s] Invoked command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ubuntu/workspace/ros_ur_driver/src/z_efg_f_gripper -DCMAKE_INSTALL_PREFIX=/home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper
+[0.435s] Invoking command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper -- -j20 -l20
+[0.460s] Invoked command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper -- -j20 -l20
+[0.465s] Invoking command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper
+[0.469s] -- Install configuration: ""
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf/gripper_test.urdf
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf/gripper.urdf
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/link_finger_left.dae
+[0.469s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/link_finger_right.dae
+[0.470s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/base_link.dae
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/package_run_dependencies/z_efg_f_gripper
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/parent_prefix_path/z_efg_f_gripper
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/ament_prefix_path.sh
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/ament_prefix_path.dsv
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/path.sh
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/path.dsv
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.bash
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.sh
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.zsh
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.dsv
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/package.dsv
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/packages/z_efg_f_gripper
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/cmake/z_efg_f_gripperConfig.cmake
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/cmake/z_efg_f_gripperConfig-version.cmake
+[0.478s] -- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/package.xml
+[0.478s] Invoked command in '/home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/workspace/ros_ur_driver/build/z_efg_f_gripper

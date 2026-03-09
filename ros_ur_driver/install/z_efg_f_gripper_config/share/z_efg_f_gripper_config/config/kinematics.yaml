@@ -1,0 +1,5 @@
+gripper:
+  # 替换为支持并行关节的运动学插件
+  kinematics_solver: srdfdom_kinematics/SRDFKinematicsPlugin
+  # 无需额外参数，该插件直接读取SRDF的关节配置
+

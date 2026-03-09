@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf/gripper_test.urdf
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/urdf/gripper.urdf
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/link_finger_left.dae
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/link_finger_right.dae
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/dae/base_link.dae
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/package_run_dependencies/z_efg_f_gripper
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/parent_prefix_path/z_efg_f_gripper
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/path.sh
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/environment/path.dsv
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.bash
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.sh
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.zsh
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/local_setup.dsv
+-- Installing: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/package.dsv
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/ament_index/resource_index/packages/z_efg_f_gripper
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/cmake/z_efg_f_gripperConfig.cmake
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/cmake/z_efg_f_gripperConfig-version.cmake
+-- Up-to-date: /home/ubuntu/workspace/ros_ur_driver/install/z_efg_f_gripper/share/z_efg_f_gripper/package.xml
