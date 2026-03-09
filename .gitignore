@@ -1,0 +1,23 @@
+# ROS2编译产物
+install/
+build/
+log/
+devel/
+build_isolated/
+devel_isolated/
+install_isolated/
+
+# 临时文件
+*.swp
+*.tmp
+*.bak
+.DS_Store
+*.pyc
+__pycache__/
+
+# 二进制文件
+*.so
+*.dll
+*.exe
+*.o
+*.a
