@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="z_efg_f_gripper">
+    <!-- 核心修正：initial_positions_file使用z_efg_f_gripper_config包的完整路径 -->
+    <xacro:arg name="initial_positions_file" 
+               default="$(find z_efg_f_gripper_config)/config/initial_positions.yaml" />
+
+    <!-- 修正：gripper.urdf属于z_efg_f_gripper包，还原正确路径 -->
+    <xacro:include filename="$(find z_efg_f_gripper)/urdf/gripper.urdf" />
+
+    <!-- ros2_control配置仍引用z_efg_f_gripper_config包 -->
+    <xacro:include filename="$(find z_efg_f_gripper_config)/config/z_efg_f_gripper.ros2_control.xacro" />
+
+    <!-- 调用ros2_control宏（参数不变） -->
+    <xacro:z_efg_f_gripper_ros2_control 
+        name="FakeSystem" 
+        initial_positions_file="$(arg initial_positions_file)"
+        prefix=""
+    />
+</robot>
